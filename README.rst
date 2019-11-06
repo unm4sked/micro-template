@@ -12,8 +12,8 @@ This project is a template for building microservices with Flask.
 .. image:: https://travis-ci.org/unm4sked/micro-template.svg?branch=master
    :target: https://travis-ci.org/unm4sked/micro-template
 
-.. image:: https://readthedocs.org/projects/micro-template/badge/?version=latest
-   :target: https://micro-template.readthedocs.io
+.. image:: https://readthedocs.org/projects/micro-template-fork/badge/?version=latest
+   :target: https:///micro-template-fork.readthedocs.io
 
 
 
