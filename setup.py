@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
             and not dep.startswith('-e')]
     install_requires = deps
 
-# some
+# some one
 setup(name='myservice',
       version="0.1",
       packages=find_packages(),
